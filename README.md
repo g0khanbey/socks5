@@ -12,6 +12,9 @@ Run the script
 ```bash
 wget https://raw.githubusercontent.com/g0khanbey/socks5/main/socks5.sh
 sudo bash socks5.sh
+
+sudo systemctl status danted
+
 ```
 
 You'll be prompted for a username and password. These will be the credentials for the SOCKS5 proxy.
